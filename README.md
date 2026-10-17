@@ -1,2 +1,2 @@
-# clip.-html
+# clip.html
 Video clipping 
